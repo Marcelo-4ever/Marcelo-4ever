@@ -1,0 +1,4 @@
+- 👋 Hi, I’m <@Marcelo>
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- I’m looking to learn more programming languagues
