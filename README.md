@@ -1,3 +1,11 @@
+<div>
+    </a>
+    <a target='_blank' href="https://www.linkedin.com/in/marcelo-ferreira2003/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
+
+
 ## **About me**
 My name is Marcelo, I currently live in Nova iguaçu, Rio de janeiro. 
 I started my programming studies in April/2022 using Python. Now I intend to improve my programming skills and write what I am learning on my Github. 
