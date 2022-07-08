@@ -18,8 +18,7 @@ I mostly learn with online courses from Udemy, coursera and from youtube. Any qu
  - **Stack:** Learning Python(basic)
  - **University:** Not yet
 
-## **Goals**
-- I have to think about it :)
-- Be rich
-- Be part of communities projects 
-- Make big projects 
+## **Goals** 
+- Make big projects
+- Contribute to open source projects
+- Get a job in this area 
