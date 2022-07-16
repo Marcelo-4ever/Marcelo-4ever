@@ -5,7 +5,6 @@
     </a>
 </div>
 
-
 ## **About me**
 My name is Marcelo, I currently live in Nova iguaçu, Rio de janeiro. 
 I started my programming studies in April/2022 using Python. Now I intend to improve my programming skills and write what I am learning on my Github. 
@@ -18,7 +17,6 @@ I mostly learn with online courses from Udemy, coursera and from youtube. Any qu
  - **Stack:** Learning Python(basic)
  - **University:** Not yet
 
-## **Goals** 
-- Make big projects
-- Contribute to open source projects
-- Get a job in this area 
+## Stack
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
