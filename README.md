@@ -20,6 +20,8 @@ I mostly learn with online courses and I am part of the He4rt community on disco
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+---
+
 <div align="center">
   <a href="https://github.com/Marcelo-4ever">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-4ever&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
