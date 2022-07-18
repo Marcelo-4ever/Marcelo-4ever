@@ -31,6 +31,6 @@ I am part of the He4rt community on discord where I can learn with others and he
 
 <div align="center">
   <a href="https://github.com/Marcelo-4ever">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-4ever&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-4ever&layout=compact&langs_count=7&theme=gruvbox_light "/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-4ever&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-4ever&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
